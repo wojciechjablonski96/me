@@ -1,5 +1,4 @@
 <p align="center">
- <img width="100px" style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/13971505?v=4" align="center" alt="Profile image" />
  <h2 align="center">Wojciech Jablonski &#10094; info@wojciechjablonski.com &#10095;</info> </h2>
  <p align="center">Take a moment for yourself.</p>
 </p>

@@ -11,7 +11,7 @@
       <img alt="Instagram Logo" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" />
     </a>
     <a href="https://twitter.com/wojtek27041996">
-      <img alt="Twitter Logo" width="30px" src="https://lh3.googleusercontent.com/proxy/muVwJgnWNLAvGrq4ip5UCmVWRBYe2aZQdNYG9eDQ9ykXO6Wd0Wi4wUvD5yTxrhHeeiNQzYZE02R2TgVIlTWNJjQf992SinF-12dFcz2aYwAvtBHOj5x8v-MYAyxgF5F2f0_ujvYSw_1xjYP9u0smgxqc" />
+      <img alt="Twitter Logo" width="30px" src="https://key0.cc/images/preview/20_01cfef901110694a52dbd29edc68f9c6.png" />
     </a>
     <a href="https://discordapp.com/channels/@me/401158298000293908/">
       <img alt="Discord Logo" width="30px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" />

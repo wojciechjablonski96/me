@@ -1,6 +1,5 @@
 <p align="center">
  <h2 align="center">Wojciech Jablonski &#10094; me@wojciechjablonski.com &#10095;</info> </h2>
- <p align="center">Take a moment for yourself.</p>
 </p>
 
   <p align="center">

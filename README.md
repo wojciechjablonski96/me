@@ -21,5 +21,4 @@
     </a>
     <br />
     <br />
-      <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=wojciechjablonski96&show_icons=true&count_private=true&theme=radical" />
   </p>
